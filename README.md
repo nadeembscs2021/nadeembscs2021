@@ -42,7 +42,7 @@
 
 ---
 
-#### **Contact**
+## **Contact**
 
 Clear pathways for **recruiters, clients, collaborators** and other people to connect with me:
 
