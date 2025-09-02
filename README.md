@@ -6,7 +6,7 @@
 
 **Title:** Full-Stack Web Developer | BS Computer Science Graduate
 
-**I am a passionate Full-Stack Web Developer with expertise in the **MERN Stack,** and modern web technologies. I build scalable, user-friendly, and performance-optimized applications that solve real-world problems. Currently pursuing a  **BSc in Computer Science** , I actively contribute to open-source projects and expand my portfolio with innovative solutions.**
+**I am a passionate Full-Stack Web Developer with expertise in the **MERN Stack,** and modern web technologies. I build scalable, user-friendly, and performance-optimized applications that solve real-world problems. Graduated with a **BS in Computer Science** , I actively contribute to open-source projects and expand my portfolio with innovative solutions.**
 
 ---
 
@@ -29,8 +29,8 @@
 #### **Education**
 
 * **BSc Computer Science** – Government Postgraduate College Timergara (University of Malakand)
-* Ranked among **Top** **5 Students** in class
-* Focus Areas: Software Engineering, Web Development, AI, DBMS, Information Security, Human-Computer Interaction
+* **Ranked** among **Top** **5 Students** in class
+* **Focus Areas:** Software Engineering, Web Development, AI, DBMS, Information Security, Compiler Construction, Human-Computer Interaction
 
 ---
 
@@ -44,7 +44,7 @@
 
 #### **Contact**
 
-Clear pathways for **recruiters, employers, and collaborators** to connect with me:
+Clear pathways for **recruiters, clients, collaborators** and other people to connect with me:
 
 * **Email:** [nadeemahmed7793@gmail.com](mailto:nadeemahmed7793@gmail.com)
 * **Phone/WhatsApp:** *+923218385925*
