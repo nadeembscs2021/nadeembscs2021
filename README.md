@@ -6,7 +6,7 @@
 
 **Title:** Full-Stack Web Developer | Data Analyst | Computer Science Graduate
 
-**I am a passionate Full-Stack Web Developer and Data Analyst with expertise in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and modern web technologies. I build scalable, user-friendly, and performance-optimized applications that solve real-world problems. Currently pursuing a  **BSc in Computer Science** , I actively contribute to open-source projects and expand my portfolio with innovative solutions.**
+**I am a passionate Full-Stack Web Developer with expertise in the **MERN Stack,** and modern web technologies. I build scalable, user-friendly, and performance-optimized applications that solve real-world problems. Currently pursuing a  **BSc in Computer Science** , I actively contribute to open-source projects and expand my portfolio with innovative solutions.**
 
 ---
 
@@ -36,7 +36,7 @@
 
 #### **Achievements & Certifications**
 
-* Academic Excellence: Top 3 student in Computer Science
+* Academic Excellence: Top 5 student in Computer Science
 * Certifications: FullStack Web Development
 * Freelance and Open-Source Contributions
 
