@@ -46,7 +46,7 @@
 
 Clear pathways for **recruiters, clients, collaborators** and other people to connect with me:
 
-* **Email:** [nadeemahmed7793@gmail.com](mailto:nadeemahmed7793@gmail.com)
+* **Email:** [nadeemahmed7793@gmail.com](mailto:nadeemahmad.software.dev@gmail.com)
 * **Phone/WhatsApp:** *+923218385925*
 * **LinkedIn: [https://www.linkedin.com/in/nadeem-ahmad-529b4326a](https://www.linkedin.com/in/nadeem-ahmad-529b4326a)**
 * **GitHub: [https://github.com/nadeembscs2021](https://github.com/nadeembscs2021)**
