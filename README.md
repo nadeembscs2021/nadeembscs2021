@@ -50,4 +50,4 @@ Clear pathways for **recruiters, clients, collaborators** and other people to co
 * **Phone/WhatsApp:** *+923218385925*
 * **LinkedIn: [https://www.linkedin.com/in/nadeem-ahmad-529b4326a](https://www.linkedin.com/in/nadeem-ahmad-529b4326a)**
 * **GitHub: [https://github.com/nadeembscs2021](https://github.com/nadeembscs2021)**
-* **Portfolio Live Demo:** **[https://nadeemahmad-portfolio.vercel.app/](https://nadeemahmad-portfolio.vercel.app/)**
+* **Portfolio Live Demo:** **[https://nadeemahmad-portfolio.vercel.app/](https://nadeemahmad-azurecoder.netlify.app/)**
