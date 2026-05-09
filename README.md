@@ -202,13 +202,13 @@
 
 <div align="center">
 
-🏆 **FullStack Web Development** — Apna College
-🏆 **FullStack Web Development** — SimpliLearn
-🏆 **Frontend Web Development** — SimpliLearn
-🏆 **Introduction to MERN Stack** — SimpliLearn
-🏆 **Crash Course on Python** — Coursera
-🏆 **Data Analytics Foundations** — Coursera
-🏆 **Advanced Data Analytics** — Coursera
+🏆 **FullStack Web Development** — Apna College <br>
+🏆 **FullStack Web Development** — SimpliLearn <br>
+🏆 **Frontend Web Development** — SimpliLearn <br>
+🏆 **Introduction to MERN Stack** — SimpliLearn <br>
+🏆 **Crash Course on Python** — Coursera <br>
+🏆 **Data Analytics Foundations** — Coursera <br>
+🏆 **Advanced Data Analytics** — Coursera <br>
 
 </div>
 
