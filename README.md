@@ -3,6 +3,7 @@
 </p>
 
 <!-- 🌈 RAINBOW TYPING TEXT -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2000&pause=800&color=F75C7E,F99C5C,FCCE5E,90D980,71BDEF,9F7AEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=220&lines=%F0%9F%8C%9F+Nadeem+Ahmad+%7C+MERN+Stack+Developer;%F0%9F%9A%80+Full-Stack+Web+Engineer;%F0%9F%92%BB+Crafting+Scalable+Solutions;%F0%9F%93%88+Passion+for+Technology" alt="Typing SVG" />
 </p>
@@ -18,6 +19,7 @@
 </p>
 
 <!-- ===================== 1. ABOUT ME ===================== -->
+
 <h1 align="center" style="background: linear-gradient(90deg, #FF5F6D, #FFC371, #36BCF7, #9B59B6); -webkit-background-clip: text; color: transparent;">
   🚀 About Me
 </h1>
@@ -58,13 +60,14 @@
 ---
 
 <!-- ===================== 2. PROFESSIONAL HIGHLIGHTS ===================== -->
+
 <h2 align="center">🏆 Professional Highlights</h2>
 
 <p align="center">
-  🥇 **BS Computer Science** — CGPA 3.5 | Top 5 Students in Class <br>
-💼 **FullStack Web Development Internship** @ Anees Software House Dir Lower Timergara <br>
-📊 **Data Analytics Internship** @ Systems Limited — Islamabad <br>
-🚀 **10+ Advanced Projects** across MERN, Next.js, and SQL
+  🥇 <b>BS Computer Science</b> — CGPA 3.5 | Top 5 Students in Class <br>
+  💼 <b>FullStack Web Development Internship</b> @ Anees Software House Dir Lower Timergara <br>
+  📊 <b>Data Analytics Internship</b> @ Systems Limited — Islamabad <br>
+  🚀 <b>10+ Advanced Projects</b> across MERN, Next.js, and SQL
 </p>
 
 <p align="center">
@@ -76,6 +79,7 @@
 </p>
 
 <!-- ===================== 3. TECHNICAL ARSENAL / SKILLS ===================== -->
+
 <h2 align="center">🛠 Technical Arsenal 🌈</h2>
 
 <h3 align="center">💻 Frontend Development</h3>
@@ -116,6 +120,7 @@
 ---
 
 <!-- ===================== 4. EXPERIENCE ===================== -->
+
 <h2 align="center">💼 Professional Experience</h2>
 
 <div align="left">
@@ -147,67 +152,75 @@
 ---
 
 <!-- ===================== 5. PROJECTS ===================== -->
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
-### [Pulse Social Application](https://github.com/nadeembscs2021)
+### [Pulse Social Application](https://socialmedia-app-frontend.vercel.app/)
 
-**Modern Social Media Platform | MERN Stack**  
+**Modern Social Media Platform | MERN Stack**
 *Dynamic full-stack networking app with real-time interaction and media sharing.*
 
-### [VoltStore E-Commerce](https://github.com/nadeembscs2021)
+### [VoltStore E-Commerce](https://ecommerce-store-frontend-two.vercel.app/)
 
-**Full-Stack E-Commerce Platform | MERN Stack**  
+**Full-Stack E-Commerce Platform | MERN Stack**
 *Complete platform featuring a responsive storefront and a secure Admin Dashboard.*
 
-### [MyCounsel Platform](https://github.com/nadeembscs2021)
+### [MyCounsel Platform](https://www.mycounsel.co/)
 
-**LawTech Unified Platform | Next.js & AI**  
+**LawTech Unified Platform | Next.js & AI**
 *AI-assisted legal research dashboard with structured professional workflows.*
 
-### [Khan Brothers Engineering](https://github.com/nadeembscs2021)
+### [Khan Brothers Engineering](https://www.kbengsolutions.com/)
 
-**Corporate Website & Admin Panel | Next.js & Tailwind**  
+**Corporate Website & Admin Panel | Next.js & Tailwind**
 *Full-stack responsive corporate platform with dynamic content management.*
 
-### [College Management System](https://github.com/nadeembscs2021)
+### [College Management System](https://cms-frontend-sepia-nine.vercel.app/)
 
-**Final Year Project | MERN & Next.js**  
+**Final Year Project | MERN & Next.js**
 *Academic platform with role-based dashboards for Admins, Teachers, and Students.*
 
 ### [Online Garments Store](https://github.com/nadeembscs2021)
 
-**E-Commerce Application | HTML, CSS, JS, SQL**  
+**E-Commerce Application | HTML, CSS, JS, SQL**
 *Full-stack storefront with secure admin panel for product and order management.*
+
+### [Next.js Portfolio](https://nadeemahmad-azurecoder.netlify.app/)
+
+**Professional Portfolio | Next.js & Tailwind**
+*Responsive personal showcase highlighting skills, experience, and projects.*
 
 </div>
 
 ---
 
 <!-- ===================== 6. CERTIFICATIONS ===================== -->
+
 <h2 align="center">📜 Certifications & Training</h2>
 
 <div align="center">
 
-🏆 **FullStack Web Development** — Apna College  
-🏆 **FullStack Web Development** — SimpliLearn  
-🏆 **Frontend Web Development** — SimpliLearn  
-🏆 **Introduction to MERN Stack** — SimpliLearn  
-🏆 **Crash Course on Python** — Coursera  
-🏆 **Data Analytics Foundations** — Coursera  
-🏆 **Advanced Data Analytics** — Coursera  
+🏆 **FullStack Web Development** — Apna College
+🏆 **FullStack Web Development** — SimpliLearn
+🏆 **Frontend Web Development** — SimpliLearn
+🏆 **Introduction to MERN Stack** — SimpliLearn
+🏆 **Crash Course on Python** — Coursera
+🏆 **Data Analytics Foundations** — Coursera
+🏆 **Advanced Data Analytics** — Coursera
 
 </div>
 
 ---
 
 <!-- ===================== 7. TESTIMONIALS / RECOGNITION ===================== -->
+
 <h2 align="center">🌟 Recognition & Appreciation</h2>
 
 <div align="center">
 
-> "Recognized for exceptional public speaking and communication skills during tenure at MedGalaxy Pvt Ltd."  
+> "Recognized for exceptional public speaking and communication skills during tenure at MedGalaxy Pvt Ltd."
 > — **Certificate of Appreciation (MedGalaxy Pvt Ltd)**
 
 </div>
@@ -215,15 +228,16 @@
 ---
 
 <!-- ===================== 8. EDUCATION ===================== -->
+
 <h2 align="center">🎓 Education</h2>
 
 <div align="center">
 
 ### **University of Malakand (UOM)**
 
-**BS in Computer Science**  
-*Session: Oct 2021 – Aug 2025*  
-**CGPA: 3.5 / 4.0**  
+**BS in Computer Science**
+*Session: Oct 2021 – Aug 2025*
+**CGPA: 3.5 / 4.0**
 *Ranked among Top 5 Students in Class*
 
 </div>
@@ -231,6 +245,7 @@
 ---
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -257,6 +272,7 @@
 ---
 
 <!-- ===================== 9. CONTACT ===================== -->
+
 <h2 align="center">📫 Connect With Me 🌐</h2>
 
 <p align="center">
@@ -295,6 +311,7 @@
 </p>
 
 <!-- 🌈 RAINBOW ENDING BANNER -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=fadeIn&color=0:ff0000,15:ffa500,30:ffff00,45:00ff00,60:00ffff,75:0000ff,90:8a2be2" />
 </p>
