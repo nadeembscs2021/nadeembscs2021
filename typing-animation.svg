@@ -1,0 +1,71 @@
+<svg width="900" height="220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes typeText1 {
+        0% { opacity: 0; }
+        5% { opacity: 1; }
+        95% { opacity: 1; }
+        100% { opacity: 0; }
+      }
+      @keyframes typeText2 {
+        0%, 25% { opacity: 0; }
+        30% { opacity: 1; }
+        95% { opacity: 1; }
+        100% { opacity: 0; }
+      }
+      @keyframes typeText3 {
+        0%, 50% { opacity: 0; }
+        55% { opacity: 1; }
+        95% { opacity: 1; }
+        100% { opacity: 0; }
+      }
+      @keyframes typeText4 {
+        0%, 75% { opacity: 0; }
+        80% { opacity: 1; }
+        95% { opacity: 1; }
+        100% { opacity: 0; }
+      }
+      @keyframes rainbow {
+        0% { fill: #FF0000; }
+        14% { fill: #FF7F00; }
+        28% { fill: #FFFF00; }
+        42% { fill: #00FF00; }
+        57% { fill: #0000FF; }
+        71% { fill: #4B0082; }
+        85% { fill: #9400D3; }
+        100% { fill: #FF0000; }
+      }
+      .text1 {
+        animation: typeText1 14s ease-in-out infinite, rainbow 14s linear infinite;
+        font-family: 'Courier New', monospace;
+        font-size: 36px;
+        font-weight: bold;
+      }
+      .text2 {
+        animation: typeText2 14s ease-in-out infinite, rainbow 14s linear infinite 2s;
+        font-family: 'Courier New', monospace;
+        font-size: 36px;
+        font-weight: bold;
+      }
+      .text3 {
+        animation: typeText3 14s ease-in-out infinite, rainbow 14s linear infinite 4s;
+        font-family: 'Courier New', monospace;
+        font-size: 36px;
+        font-weight: bold;
+      }
+      .text4 {
+        animation: typeText4 14s ease-in-out infinite, rainbow 14s linear infinite 6s;
+        font-family: 'Courier New', monospace;
+        font-size: 36px;
+        font-weight: bold;
+      }
+    </style>
+  </defs>
+  
+  <rect width="900" height="220" fill="#0d1117"/>
+  
+  <text x="450" y="60" text-anchor="middle" class="text1">🌟 Nadeem Ahmad | MERN Stack Developer</text>
+  <text x="450" y="110" text-anchor="middle" class="text2">🚀 Full-Stack Web Engineer</text>
+  <text x="450" y="160" text-anchor="middle" class="text3">💻 Crafting Scalable Web Solutions</text>
+  <text x="450" y="210" text-anchor="middle" class="text4">⚡ Recent CS Graduate | 3.5 CGPA</text>
+</svg>
