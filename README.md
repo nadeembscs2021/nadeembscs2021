@@ -10,7 +10,7 @@
 <div align="center">
 
 <p align="center">
-  <img 
+  <img
     src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
     alt="Rainbow Animation"
     width="100%"
@@ -27,9 +27,9 @@
 </p>
 
 <p align="center" style="max-width: 800px;">
-  I'm a dedicated Computer Science graduate with hands-on experience in building scalable, user-centric web applications. 
-  With a sharp problem-solving mindset and a passion for modern technologies, I specialize in the <b>MERN Stack</b> 
-  and enterprise-grade frontend solutions. I thrive in technology-driven environments where I can contribute to 
+  I'm a dedicated Computer Science graduate with hands-on experience in building scalable, user-centric web applications.
+  With a sharp problem-solving mindset and a passion for modern technologies, I specialize in the <b>MERN Stack</b>
+  and enterprise-grade frontend solutions. I thrive in technology-driven environments where I can contribute to
   impactful projects and grow as a software engineer.
 </p>
 
@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img 
+  <img
     src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
     alt="Rainbow Animation"
     width="100%"
@@ -121,7 +121,9 @@
 <div align="left">
 
 #### 🔹 FullStack Web Development Intern | Anees Software House — Timergara, KPK
+
 *May 2024 – Aug 2025*
+
 - Learned core web fundamentals: **HTML**, **CSS**, **JavaScript** in a professional MERN stack environment.
 - Developed understanding of responsive design and user-friendly web interfaces for different devices.
 - Created interactive UIs with **React.js**, focusing on components and state management.
@@ -133,7 +135,9 @@
 - Gained exposure to teamwork, version control, and real-world development workflows.
 
 #### 🔹 Data Analytics Intern | Systems Limited — Islamabad
+
 *Sep 2025 – Dec 2025*
+
 - Gained practical experience with **SQL** & **Python** for data transformation and querying.
 - Practiced data ingestion and processing using **Apache NiFi** and **Databricks**.
 - Conducted exploratory data analysis to understand dataset structures and patterns.
@@ -148,26 +152,32 @@
 <div align="center">
 
 ### [Pulse Social Application](https://github.com/nadeembscs2021)
+
 **Modern Social Media Platform | MERN Stack**  
 *Dynamic full-stack networking app with real-time interaction and media sharing.*
 
 ### [VoltStore E-Commerce](https://github.com/nadeembscs2021)
+
 **Full-Stack E-Commerce Platform | MERN Stack**  
 *Complete platform featuring a responsive storefront and a secure Admin Dashboard.*
 
 ### [MyCounsel Platform](https://github.com/nadeembscs2021)
+
 **LawTech Unified Platform | Next.js & AI**  
 *AI-assisted legal research dashboard with structured professional workflows.*
 
 ### [Khan Brothers Engineering](https://github.com/nadeembscs2021)
+
 **Corporate Website & Admin Panel | Next.js & Tailwind**  
 *Full-stack responsive corporate platform with dynamic content management.*
 
 ### [College Management System](https://github.com/nadeembscs2021)
+
 **Final Year Project | MERN & Next.js**  
 *Academic platform with role-based dashboards for Admins, Teachers, and Students.*
 
 ### [Online Garments Store](https://github.com/nadeembscs2021)
+
 **E-Commerce Application | HTML, CSS, JS, SQL**  
 *Full-stack storefront with secure admin panel for product and order management.*
 
@@ -210,6 +220,7 @@
 <div align="center">
 
 ### **University of Malakand (UOM)**
+
 **BS in Computer Science**  
 *Session: Oct 2021 – Aug 2025*  
 **CGPA: 3.5 / 4.0**  
@@ -230,11 +241,11 @@
 </div>
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nadeembscs2021&theme=tokyo-night&bg_color=0D1117&color=36BCF7&line=0D4FF&point=FFD93D&area=true&hide_border=true" 
-    alt="Nadeem's GitHub Activity Graph" 
-    width="90%" 
-    style="max-width:900px; border-radius:12px; box-shadow:0 8px 20px rgba(0,0,0,0.2);" 
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nadeembscs2021&theme=tokyo-night&bg_color=0D1117&color=36BCF7&line=0D4FF&point=FFD93D&area=true&hide_border=true"
+    alt="Nadeem's GitHub Activity Graph"
+    width="90%"
+    style="max-width:900px; border-radius:12px; box-shadow:0 8px 20px rgba(0,0,0,0.2);"
   />
 </p>
 
@@ -249,28 +260,28 @@
 <h2 align="center">📫 Connect With Me 🌐</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nadeem-ahmad-529b4326a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="mailto:nadeemahmad.coder@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/nadeembscs2021">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/nadeem-ahmad-529b4326a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://nadeemahmad-azurecoder.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK">
+  <a href="https://www.facebook.com/profile.php?id=100071757684762&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  <a href="https://www.instagram.com/nadeem_coder?igsh=MjQ5aGYxZjFjbmRp">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://x.com/NadeemKhan_2021">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://tiktok.com/@YOUR_TIKTOK">
+  <a href="https://www.tiktok.com/@azurecoder506?_r=1&_t=ZS-96DQAe4y3jr">
     <img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 </p>
@@ -289,4 +300,3 @@
 </p>
 
 </div>
-
