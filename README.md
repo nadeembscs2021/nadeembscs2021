@@ -187,7 +187,7 @@
 **E-Commerce Application | HTML, CSS, JS, SQL**
 *Full-stack storefront with secure admin panel for product and order management.*
 
-### [Next.js Portfolio](https://nadeemahmad-azurecoder.netlify.app/)
+### [Next.js Portfolio](https://nadeemweb.engineer)
 
 **Professional Portfolio | Next.js & Tailwind**
 *Responsive personal showcase highlighting skills, experience, and projects.*
@@ -285,8 +285,8 @@
   <a href="https://www.linkedin.com/in/nadeem-ahmad-529b4326a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://nadeemahmad-azurecoder.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <a href="https://nadeemweb.engineer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100071757684762&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
