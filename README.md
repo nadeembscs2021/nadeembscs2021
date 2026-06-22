@@ -42,7 +42,7 @@
 <br>
 
 <p style="background: linear-gradient(90deg, #FF0000, #FF7F00); -webkit-background-clip: text; color: transparent; font-weight:bold;">
-  🌈 1+ Year hands-on experience in Full-Stack Web Development
+  🌈 2+ Year hands-on experience in Full-Stack Web Development
 </p>
 <p style="background: linear-gradient(90deg, #FF7F00, #FFFF00); -webkit-background-clip: text; color: transparent; font-weight:bold;">
   🚀 Passionate about building real-world applications and scalable systems
